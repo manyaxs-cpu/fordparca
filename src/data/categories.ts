@@ -16,7 +16,7 @@ export const vehicleCategories: Category[] = [
       'Ford Transit tüm kasa tipleri için orijinal ve yan sanayi yedek parça. V184, V347, V363 ve Custom modelleri.',
     image: '/images/models/transit.jpg',
     modelYears: '1992 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/transit-pmk12',
+    parentUrl: 'https://www.otomert.com.tr/transit-yedek-parca-pmk12',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -35,7 +35,7 @@ export const vehicleCategories: Category[] = [
       'Transit Custom V362 ve V363 yedek parçaları. Orijinal ve muadil seçeneklerle uygun fiyatlı parçalar.',
     image: '/images/models/transit-custom.jpg',
     modelYears: '2013 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/transit-custom-v362-pmk278',
+    parentUrl: 'https://www.otomert.com.tr/transit-yedek-parca-pmk12',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -52,7 +52,7 @@ export const vehicleCategories: Category[] = [
       'Transit Connect tüm kasalar için yedek parça. Hafif ticari Ford Connect parçaları stokta.',
     image: '/images/models/connect.jpg',
     modelYears: '2002 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/connect-pmk11',
+    parentUrl: 'https://www.otomert.com.tr/connect-yedek-parca-pmk11',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -68,7 +68,7 @@ export const vehicleCategories: Category[] = [
       'Ford Focus MK1, MK2, MK3 ve MK4 yedek parçaları. Sedan ve hatchback tüm modeller.',
     image: '/images/models/focus.jpg',
     modelYears: '1998 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/focus-pmk1',
+    parentUrl: 'https://www.otomert.com.tr/focus-yedek-parca-pmk1',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -85,7 +85,7 @@ export const vehicleCategories: Category[] = [
       'Ford Fiesta tüm nesiller için yedek parça. MK5, MK6, MK7 ve MK8 modelleri.',
     image: '/images/models/fiesta.jpg',
     modelYears: '2001 - 2023',
-    parentUrl: 'https://www.otomert.com.tr/fiesta-pmk7',
+    parentUrl: 'https://www.otomert.com.tr/fiesta-yedek-parca-pmk7',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -101,7 +101,7 @@ export const vehicleCategories: Category[] = [
       'Ford Courier 2014 ve sonrası modeller için yedek parça. Ön-arka takım ve tüm parçalar.',
     image: '/images/models/courier.jpg',
     modelYears: '2014 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/courier-pmk142',
+    parentUrl: 'https://www.otomert.com.tr/courier-yedek-parca-pmk142',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -117,7 +117,7 @@ export const vehicleCategories: Category[] = [
       'Ford Mondeo MK3, MK4 ve MK5 yedek parçaları. Sedan, hatchback ve station wagon.',
     image: '/images/models/mondeo.jpg',
     modelYears: '2000 - 2023',
-    parentUrl: 'https://www.otomert.com.tr/mondeo-pmk8',
+    parentUrl: 'https://www.otomert.com.tr/mondeo-yedek-parca-pmk8',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -149,7 +149,7 @@ export const vehicleCategories: Category[] = [
       'Ford Ranger pick-up yedek parçaları. Arazi ve şehir kullanımı için tüm parçalar.',
     image: '/images/models/ranger.jpg',
     modelYears: '2011 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/',
+    parentUrl: 'https://www.otomert.com.tr/ranger-yedek-parca-pmk438',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -165,7 +165,7 @@ export const vehicleCategories: Category[] = [
       'Ford Puma crossover SUV yedek parçaları. 2019 ve sonrası modeller için.',
     image: '/images/models/puma.jpg',
     modelYears: '2019 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/puma-2020-2024-pmk454',
+    parentUrl: 'https://www.otomert.com.tr/puma-yedek-parca-pmk464',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',
@@ -196,7 +196,7 @@ export const vehicleCategories: Category[] = [
       'Ford Tourneo Connect ve Tourneo Custom yolcu taşıma araçları yedek parçaları.',
     image: '/images/models/tourneo.jpg',
     modelYears: '2013 - 2025',
-    parentUrl: 'https://www.otomert.com.tr/connect-pmk11',
+    parentUrl: 'https://www.otomert.com.tr/connect-yedek-parca-pmk11',
     subcategories: [
       'Motor Parçaları',
       'Kaporta',

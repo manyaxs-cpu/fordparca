@@ -33,7 +33,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Focus MK3 için orijinal ön fren balata takımı. 2011-2018 model araçlara uyumludur.',
     oemCode: '1809256',
-    parentUrl: 'https://www.otomert.com.tr/focus-pmk1',
+    parentUrl: 'https://www.otomert.com.tr/focus-yedek-parca-pmk1',
     isFeatured: true,
   },
   {
@@ -51,7 +51,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Transit Custom V363 makyajlı kasa için sol ön far. LED gündüz farı dahil.',
     oemCode: 'JK21-13W030',
-    parentUrl: 'https://www.otomert.com.tr/transit-custom-v362-pmk278',
+    parentUrl: 'https://www.otomert.com.tr/transit-yedek-parca-pmk12',
     isFeatured: true,
   },
   {
@@ -69,7 +69,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Courier 1.5 TDCi ve 1.6 TDCi motorlar için orijinal hava filtresi.',
     oemCode: 'C1BJ-9601-AB',
-    parentUrl: 'https://www.otomert.com.tr/courier-pmk142',
+    parentUrl: 'https://www.otomert.com.tr/courier-yedek-parca-pmk142',
     isFeatured: true,
   },
   {
@@ -84,7 +84,7 @@ export const featuredProducts: Product[] = [
     inStock: true,
     image: '/images/products/ayna-sinyal.jpg',
     description: 'Ford Focus MK4 için LED ayna sinyal lambası. Sol taraf.',
-    parentUrl: 'https://www.otomert.com.tr/focus-ledli-ayna-sinyali-sol-2019-2023-ithal-pmu12858',
+    parentUrl: 'https://www.otomert.com.tr/focus-yedek-parca-pmk1',
     isFeatured: true,
   },
   {
@@ -102,7 +102,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Transit V347 kasa için orijinal ön amortisör. Tekli satış.',
     oemCode: '6C11-18045-AE',
-    parentUrl: 'https://www.otomert.com.tr/transit-pmk12',
+    parentUrl: 'https://www.otomert.com.tr/transit-yedek-parca-pmk12',
     isFeatured: true,
   },
   {
@@ -120,7 +120,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Fiesta MK7 1.4 TDCi ve 1.5 TDCi için komple debriyaj seti. Baskı, balata ve bilya dahil.',
     oemCode: '2207826',
-    parentUrl: 'https://www.otomert.com.tr/fiesta-pmk7',
+    parentUrl: 'https://www.otomert.com.tr/fiesta-yedek-parca-pmk7',
     isFeatured: true,
   },
   {
@@ -154,7 +154,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Mondeo MK5 2.0 TDCi motor için orijinal yağ filtresi.',
     oemCode: '2525966',
-    parentUrl: 'https://www.otomert.com.tr/mondeo-pmk8',
+    parentUrl: 'https://www.otomert.com.tr/mondeo-yedek-parca-pmk8',
     isFeatured: true,
   },
 ]
