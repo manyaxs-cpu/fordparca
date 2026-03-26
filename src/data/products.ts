@@ -33,7 +33,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Focus MK3 için orijinal ön fren balata takımı. 2011-2018 model araçlara uyumludur.',
     oemCode: '1809256',
-    parentUrl: 'https://www.otomert.com.tr/focus-pmk14',
+    parentUrl: 'https://www.otomert.com.tr/focus-pmk1',
     isFeatured: true,
   },
   {
@@ -51,7 +51,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Transit Custom V363 makyajlı kasa için sol ön far. LED gündüz farı dahil.',
     oemCode: 'JK21-13W030',
-    parentUrl: 'https://www.otomert.com.tr/transit-custom-pmk155',
+    parentUrl: 'https://www.otomert.com.tr/transit-custom-v362-pmk278',
     isFeatured: true,
   },
   {
@@ -69,7 +69,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Courier 1.5 TDCi ve 1.6 TDCi motorlar için orijinal hava filtresi.',
     oemCode: 'C1BJ-9601-AB',
-    parentUrl: 'https://www.otomert.com.tr/courier-pmk161',
+    parentUrl: 'https://www.otomert.com.tr/courier-pmk142',
     isFeatured: true,
   },
   {
@@ -120,7 +120,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Fiesta MK7 1.4 TDCi ve 1.5 TDCi için komple debriyaj seti. Baskı, balata ve bilya dahil.',
     oemCode: '2207826',
-    parentUrl: 'https://www.otomert.com.tr/fiesta-pmk15',
+    parentUrl: 'https://www.otomert.com.tr/fiesta-pmk7',
     isFeatured: true,
   },
   {
@@ -135,7 +135,7 @@ export const featuredProducts: Product[] = [
     inStock: true,
     image: '/images/products/stop-lamba.jpg',
     description: 'Ford Kuga MK3 için sağ arka stop lambası. LED teknolojisi.',
-    parentUrl: 'https://www.otomert.com.tr/kuga-pmk17',
+    parentUrl: 'https://www.otomert.com.tr/kuga-yedek-parca-pmk382',
     isFeatured: true,
     isNew: true,
   },
@@ -154,7 +154,7 @@ export const featuredProducts: Product[] = [
     description:
       'Ford Mondeo MK5 2.0 TDCi motor için orijinal yağ filtresi.',
     oemCode: '2525966',
-    parentUrl: 'https://www.otomert.com.tr/mondeo-pmk16',
+    parentUrl: 'https://www.otomert.com.tr/mondeo-pmk8',
     isFeatured: true,
   },
 ]
